@@ -1,0 +1,59 @@
+/* based on http://colorschemedesigner.com/#4551Tw0w0w0w0 */
+
+body {
+	font-size: 10pt;
+	font-family: Verdana, sans-serif;
+	margin: 1em 5em 2em 5em;
+	background-color: white;
+	color: black;
+	line-height: 1.4em;
+}
+
+a {
+	color: #2818B1;
+	font-weight: bold;
+}
+
+a:visited {
+	color: #5E0DAC;
+}
+
+a:active {
+	color: #0E53A7;
+}
+
+
+table {
+	border-collapse: collapse;
+}
+
+td, th {
+	border: 1px solid #aaaaaa;
+	padding: 0.25em;
+}
+
+th {
+	background-color: #dddddd;
+	padding: 0.25em 1em;
+}
+
+h1 {
+	font-size: 1.7em;
+}
+
+h2 {
+	font-size: 1.4em;
+}
+
+h3 {
+	font-size: 1.2em;
+}
+
+h4, h5, h6 {
+	font-size: 1.1em;
+}
+
+h1,h2,h3,h4,h5,h6 {
+	font-weight: bold;
+	margin: 1em 0em 0.5em 0em;
+}
