@@ -11,3 +11,7 @@ These files are intended to be linked directly from github into the respective d
     <link rel="stylesheet" type="text/css" href="http://github.com/mbr/draft-css/raw/master/simple-ssbw.css">
 
 Of course, you can always download and include them as well.
+
+License
+=======
+All files are MIT licensed. They all include a header.
