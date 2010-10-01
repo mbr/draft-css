@@ -39,6 +39,10 @@ a {
 	font-weight: bold;
 }
 
+img a {
+	border: none;
+}
+
 a:visited {
 	color: #5E0DAC;
 }
